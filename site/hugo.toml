@@ -21,7 +21,7 @@ style = "github-dark"
   description = "Thomas Allan's personal website"
   keywords = "blog,developer,personal"
  # avatarurl = "images/avatar.jpg"
-  gravatar = "thomas119.allan@gmail.com"
+ gravatar = "thomas119.allan@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
